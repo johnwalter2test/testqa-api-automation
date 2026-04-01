@@ -1,4 +1,4 @@
-# Multibank UI Automation (Sample Maven setup)
+#(Sample Maven setup)
 
 This repository now contains a minimal Maven project structure with a sample application and a TestNG test.
 
